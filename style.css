@@ -2,7 +2,7 @@ body{
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    color:black;
+    color:rgb(rgb(54, 11, 79));
 }
 .header{
     display: flex;
@@ -58,7 +58,7 @@ body{
 }
 .item{
     font-family: 'Archivo';
-    color: black;
+    color:  rgb(91, 17, 147);
     
     
 }
@@ -88,7 +88,7 @@ body{
 .footer1{
     /* font-family; */
     font-size: 30px;
-    color: black;
+    color: rgb(91, 17, 147);
 }
 
 .page-footer{
@@ -100,17 +100,17 @@ body{
 
 #follow{
     font-family: 'Archivo';
-    border: 1px solid black;
+    border: 1px solid rgb(91, 17, 147);
     border-radius: 5px;
     padding: 10px;
     font-size: medium;
-    color: black;
+    color: rgb(91, 17, 147);
 }
  
 #follow:hover{
     cursor: pointer;
-    background-color:white;
-    color:black;
+    background-color:rgb(91, 17, 147);
+    color:white;
 }
 
 .main-grid2{
@@ -119,13 +119,13 @@ body{
 }
 
 #button{
-    background-color:black;
+    background-color:rgb(54, 11, 79);
     color: white;
     width: 100px;
 }
 #button:hover{
-    background-color: black;
-    color: black;
+    background-color: rgb(91, 17, 147);
+    color: aliceblue;
     cursor: pointer;
     
 }
@@ -149,6 +149,6 @@ body{
     width: 100%;
 }
 #Featured{
-    color: black;
+    color: rgb(91, 17, 147);
     font-size: 30px;
 }
